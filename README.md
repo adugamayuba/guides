@@ -1,7 +1,7 @@
 ![](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)
 
 # freeCodeCamp Guide
-The freeCodeCamp community is building a massive, searchable "Guide." This reference tool will eventually include thousands of articles that cover all areas of development, design, and data science - all written to be easily understood by people new to coding.
+The freeCodeCamp community is building a massive, searchable "Guide." This reference tool will eventually include thousands of articles that cover all areas of development, design, and data science - all written to be easily understood by people new to  the world of coding.
 
 This repo is where we plan and maintain these Guide articles, which we then host on our community's wiki-like [Guide website](https://guide.freecodecamp.org).
 
@@ -110,7 +110,7 @@ Our goal is to have thousands of articles that cover a broad range of technical 
 
 ### General writing tips
 
-Before you begin writing, create an outline of the topic and think about any coding examples you'll use (if applicable). This helps to organize your thoughts and make the writing process easier.
+Before you begin writing, create an outline of the topic and think about any coding examples you'll use (if applicable). This helps to organize your thoughts and make the writing process easier and faster.
 
 Articles should be written with short, clear sentences, and use as little jargon as necessary. All jargon should be defined immediately in plain English.
 
